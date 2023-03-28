@@ -17,7 +17,7 @@ h2 {
 
 header {
     text-align: center;
-    padding: 60px;
+    padding: 80px;
 }
 
 #websites, footer {
@@ -40,9 +40,10 @@ header {
 }
 
 #reviews img {
-    max-width:300px;
+    max-width:400px;
 }
 
 #reviews figure{
     text-align: center;
+    padding: 90px;
 }
