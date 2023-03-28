@@ -1,0 +1,31 @@
+body {
+    font-family: Carter One;
+    background-color:#B0FBFF;
+    color:#9E7F6B;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Concert One;
+}
+h1{
+    font-size: 40pt;
+}
+
+h2 {
+    margin: 0.1em;
+}
+
+header {
+    text-align: center;
+}
+
+#websites, footer {
+    color: black;
+    background-color:#5CDEE6;
+    text-align: center;
+    padding: 10px;
+}
+
+#websites img {
+    width: 400px;
+}
