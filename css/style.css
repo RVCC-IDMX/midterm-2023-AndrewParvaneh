@@ -17,6 +17,7 @@ h2 {
 
 header {
     text-align: center;
+    padding: 60px;
 }
 
 #websites, footer {
@@ -28,4 +29,20 @@ header {
 
 #websites img {
     width: 400px;
+}
+
+/* Reviews Section */
+
+#reviews {
+    border: 5pt solid #2E9399;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+#reviews img {
+    max-width:300px;
+}
+
+#reviews figure{
+    text-align: center;
 }
